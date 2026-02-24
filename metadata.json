@@ -1,0 +1,7 @@
+{
+  "name": "Last Finallll version AnatomyGuru Evaluation System Cloud Run new",
+  "description": "Professional medical audit engine for clinical-grade academic evaluation and knowledge gap mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
